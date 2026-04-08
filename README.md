@@ -4,6 +4,8 @@
 
 Идеально подходит для пользователей, которые хотят полностью контролировать, какие программы могут выполняться в системе.
 
+![Скриншот](https://github.com/MarenKeneshov/NoExe/blob/main/scr.png)
+
 ## Возможности
 
 -  Блокировка любых процессов по имени через IFEO  
@@ -41,6 +43,8 @@ YouTube: https://www.youtube.com/@maren704
 **NoExe** is a simple and powerful application for blocking the execution of unwanted processes using IFEO.
 
 Perfect for users who want full control over which programs are allowed to run on their system.
+
+![Screenshot](https://github.com/MarenKeneshov/NoExe/blob/main/scr.png)
 
 ## Features
 
