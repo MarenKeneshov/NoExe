@@ -4,15 +4,11 @@
 
 Идеально подходит для пользователей, которые хотят полностью контролировать, какие программы могут выполняться в системе.
 
----
-
 ## Возможности
 
 -  Блокировка любых процессов по имени через IFEO  
 -  Быстрая и стабильная работа  
 -  Простой и понятный интерфейс
-
----
 
 ## Как использовать
 
@@ -20,14 +16,10 @@
 2. Активируйте блокировку  
 3. Готово — процесс больше не запустится  
 
----
-
 ## Важно
 
 NoExe использует механизм **Image File Execution Options (IFEO)**.  
 Изменения требуют прав администратора.
-
----
 
 ## Зачем это нужно?
 
@@ -35,8 +27,6 @@ NoExe использует механизм **Image File Execution Options (IFEO
 - Родительский контроль  
 - Защита системы от определённых приложений  
 - Контроль рабочего окружения  
-
----
 
 **Подробная инструкция есть у меня на ютубе и в телеграме**
 
@@ -51,15 +41,11 @@ YouTube: https://www.youtube.com/@maren704
 
 Perfect for users who want full control over which programs are allowed to run on their system.
 
----
-
 ## Features
 
 - Block any process by name via IFEO  
 - Fast and stable performance  
 - Simple and user-friendly interface  
-
----
 
 ## Usage
 
@@ -67,14 +53,10 @@ Perfect for users who want full control over which programs are allowed to run o
 2. Enable blocking  
 3. Done — the process will no longer start  
 
----
-
 ## Important
 
 NoExe uses the **Image File Execution Options (IFEO)** mechanism.  
 Changes require administrator privileges.
-
----
 
 ## Why use it?
 
@@ -82,8 +64,6 @@ Changes require administrator privileges.
 - Parental control  
 - Protect the system from specific programs  
 - Control the working environment  
-
----
 
 **Detailed guide available on my YouTube and Telegram**
 
