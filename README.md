@@ -31,6 +31,7 @@ NoExe использует механизм **Image File Execution Options (IFEO
 **Подробная инструкция есть у меня на ютубе и в телеграме**
 
 Telegram: t.me/kensecproj
+
 YouTube: https://www.youtube.com/@maren704
 
 -------
@@ -68,4 +69,5 @@ Changes require administrator privileges.
 **Detailed guide available on my YouTube and Telegram**
 
 Telegram: https://t.me/kensecproj  
+
 YouTube: https://www.youtube.com/@maren704
